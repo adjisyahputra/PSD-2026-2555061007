@@ -8,7 +8,9 @@ Judul Program: Bagaimana Cara Sederhana Menginput Nilai Mahasiswa
 
   <img width="2126" height="1888" alt="NILAI MAHASISWA" src="https://github.com/user-attachments/assets/79a335c2-d953-4fe3-bd27-d234732c4998" />
 1. Mendefinisikan fungsi untuk menampilkan pilihan menu.
+
 2. Menampilkan judul sistem input nilai mahasiswa.
+
 3. Menampilkan opsi 1 untuk melihat semua nilai mahasiswa.
 4. Menampilkan opsi 2 untuk memasukkan atau memperbarui nilai mahasiswa.
 5. Menampilkan opsi 3 untuk melihat rata-rata nilai.
