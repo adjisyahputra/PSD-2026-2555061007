@@ -1,5 +1,5 @@
 Tugas Akhir Praktikum Struktur Data 2
-Mama: DIMAS ADJI SYAHPUTRA
+Nama: DIMAS ADJI SYAHPUTRA
 NPM: 2555061007
 KELAS: PSD C
 
