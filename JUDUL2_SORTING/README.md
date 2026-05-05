@@ -1,13 +1,18 @@
 Tugas Akhir Praktikum Struktur Data 2
+
 Nama: DIMAS ADJI SYAHPUTRA
+
 NPM: 2555061007
+
 KELAS: PSD C
+
 
 Judul Program: Bagaimana Mengurutkan Absen Mahasiswa Sesuai Dengan Abjad?
 
 Program sederhana ini membantu kita untuk mempermudah menemukan absen mahasiswa yang berantakan, ketika basen tidak terurut tentu kita kesulitan untuk menemukan nama kita kita terletak di posisi bagian mana. Ketika absen sudah terurut, tentu ini akan mempermudah kita menemukan nama kita tanpa harus mencari dan membaca nama dari awal hingga akhir, hanya perlu mencari letak abjad kita kemudian mencarinya. Fungsi yang digunakan adalah bubble short yang membandingkan dua nama yang berdekatan lalu apabila tidak sesuai dengan posisinya maka ditukar.
 
 <img width="1264" height="1736" alt="psd 2" src="https://github.com/user-attachments/assets/26c71928-a6bd-4896-b4a9-63be82426b4e" />
+
 1. Mendefinisikan fungsi bernama tukar yang digunakan untuk menukar posisi dua elemen dalam array berdasarkan indeks.
 2. Menyimpan sementara nilai elemen pada indeks i ke dalam variabel temp agar tidak hilang saat proses penukaran.
 3. Mengisi posisi indeks i dengan nilai dari indeks j.
@@ -48,8 +53,11 @@ Program sederhana ini membantu kita untuk mempermudah menemukan absen mahasiswa 
 38. Memanggil fungsi main() untuk menjalankan seluruh program dari awal.
 
     Output : <img width="783" height="212" alt="Screenshot 2026-05-05 230302" src="https://github.com/user-attachments/assets/3b46c2b8-6f5c-44dc-8394-53db4ec69238" />
+    
 
-    link youtube: https://youtu.be/LXa6kOcltDM?si=Rk6VwTGwELzm7JK7
+
+    link youtube:
+    https://youtu.be/LXa6kOcltDM?si=Rk6VwTGwELzm7JK7
 
 
 
