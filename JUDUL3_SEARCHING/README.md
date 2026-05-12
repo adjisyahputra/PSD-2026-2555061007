@@ -4,7 +4,7 @@ Nama : DIMAS ADJI SYAHPUTRA
 
 NPM : 2555061007
 
-Judul Program : PROGRAM PENCARIAN STOCK BARANG PADA SEBUAH GUDANG
+Judul Program : PROGRAM PENCARIAN STOK BARANG PADA SEBUAH GUDANG
 
 Program ini digunakan untuk mengimplementasikan dalam membantu menambahkan dan mencari posisi stock barang pada gudang, ini memudahkan untuk mengatur keluar masuk barang pada gudang. Data yang dimasukkan kemudian akan diproses dengan metode sequential searching sentinel.
 
